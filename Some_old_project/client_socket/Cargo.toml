@@ -1,0 +1,7 @@
+[package]
+name = "client_socket"
+version = "0.1.0"
+authors = ["Simon Bonér <dv17sbr@cs.umu.se>"]
+edition = "2018"
+
+[dependencies]
