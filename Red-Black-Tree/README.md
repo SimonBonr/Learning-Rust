@@ -1,0 +1,1 @@
+Thing makes me cry, maybe datatypes is not where to start with Rust
